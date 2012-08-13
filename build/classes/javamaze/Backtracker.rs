@@ -1,2 +1,0 @@
-javamaze.Backtracker
-javamaze.CellData
